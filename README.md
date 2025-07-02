@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/lakshya2851/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/lakshya2851/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0680-valid-palindrome-ii](https://github.com/lakshya2851/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/lakshya2851/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/lakshya2851/Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/lakshya2851/Leetcode/tree/master/0409-longest-palindrome) |
 ## Sorting
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/lakshya2851/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/lakshya2851/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
