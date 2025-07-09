@@ -42,5 +42,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/lakshya2851/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/lakshya2851/Leetcode/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/lakshya2851/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
