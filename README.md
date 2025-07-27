@@ -56,4 +56,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/lakshya2851/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2058-concatenation-of-array](https://github.com/lakshya2851/Leetcode/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/lakshya2851/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
