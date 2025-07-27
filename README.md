@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/lakshya2851/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0680-valid-palindrome-ii](https://github.com/lakshya2851/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/lakshya2851/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/lakshya2851/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/lakshya2851/Leetcode/tree/master/0242-valid-anagram) |
+| [1019-squares-of-a-sorted-array](https://github.com/lakshya2851/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
@@ -50,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/lakshya2851/Leetcode/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/lakshya2851/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
