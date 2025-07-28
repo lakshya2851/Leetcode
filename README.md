@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/lakshya2851/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2048-build-array-from-permutation](https://github.com/lakshya2851/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/lakshya2851/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/lakshya2851/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Simulation
 |  |
 | ------- |
