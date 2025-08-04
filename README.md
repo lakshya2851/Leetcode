@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/lakshya2851/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/lakshya2851/Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/lakshya2851/Leetcode/tree/master/0409-longest-palindrome) |
+| [0940-fruit-into-baskets](https://github.com/lakshya2851/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/lakshya2851/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/lakshya2851/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/lakshya2851/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/lakshya2851/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -78,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshya2851/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/lakshya2851/Leetcode/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
