@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/lakshya2851/Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/lakshya2851/Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/lakshya2851/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/lakshya2851/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Greedy
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/lakshya2851/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/lakshya2851/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/lakshya2851/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/lakshya2851/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2048-build-array-from-permutation](https://github.com/lakshya2851/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/lakshya2851/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/lakshya2851/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
