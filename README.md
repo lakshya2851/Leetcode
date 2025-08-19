@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/lakshya2851/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/lakshya2851/Leetcode/tree/master/0050-powx-n) |
 ## Array
 |  |
