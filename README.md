@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/lakshya2851/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/lakshya2851/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshya2851/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/lakshya2851/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/lakshya2851/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lakshya2851/Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/lakshya2851/Leetcode/tree/master/0409-longest-palindrome) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/lakshya2851/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/lakshya2851/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/lakshya2851/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/lakshya2851/Leetcode/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/lakshya2851/Leetcode/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/lakshya2851/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/lakshya2851/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
@@ -93,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/lakshya2851/Leetcode/tree/master/0067-add-binary) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshya2851/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
 |  |
