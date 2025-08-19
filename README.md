@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/lakshya2851/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/lakshya2851/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lakshya2851/Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/lakshya2851/Leetcode/tree/master/0409-longest-palindrome) |
