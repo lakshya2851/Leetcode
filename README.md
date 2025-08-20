@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/lakshya2851/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/lakshya2851/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshya2851/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/lakshya2851/Leetcode/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/lakshya2851/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/lakshya2851/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/lakshya2851/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/lakshya2851/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshya2851/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/lakshya2851/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/lakshya2851/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/lakshya2851/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lakshya2851/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/lakshya2851/Leetcode/tree/master/0242-valid-anagram) |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/lakshya2851/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/lakshya2851/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/lakshya2851/Leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/lakshya2851/Leetcode/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
