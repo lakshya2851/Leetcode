@@ -1,0 +1,1 @@
+const sortedArrayToBST=r=>{if(!r.length)return null;let e=Math.floor(r.length/2),t=new TreeNode(r[e]);return t.left=sortedArrayToBST(r.slice(0,e)),t.right=sortedArrayToBST(r.slice(e+1)),t};
