@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lakshya2851/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/lakshya2851/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshya2851/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lakshya2851/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshya2851/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/lakshya2851/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/lakshya2851/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lakshya2851/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lakshya2851/Leetcode/tree/master/0242-valid-anagram) |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lakshya2851/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/lakshya2851/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshya2851/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lakshya2851/Leetcode/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshya2851/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
